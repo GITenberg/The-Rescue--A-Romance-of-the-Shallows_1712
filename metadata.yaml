@@ -1,0 +1,46 @@
+_repo: The-Rescue--A-Romance-of-the-Shallows_1712
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "The Rescue, A Romance of the Shallows (1920) is one of Joseph Conrad's\
+  \ works contained in The Lingard Trilogy, a group of novels based on Conrad's experience\
+  \ as mate on the steamer Vidar. Although it was the last of the three novels to\
+  \ be published, after Almayer's Folly (1895) and An Outcast of the Islands (1896),\
+  \ the events related in the novel precede those. The story follows Captain Tom Lingard,\
+  \ the recurring protagonist of The Lingard Trilogy, who was on his way to help a\
+  \ native friend regain his land when he falls in love with a married woman whose\
+  \ yacht he saves from foundering.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1712'
+  wikidata: Q1090228
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malay Archipelago -- Fiction'
+- !lcsh 'Lingard, Tom (Fictitious character) -- Fiction'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Yachting -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Sea stories'
+- !lcc 'PR'
+- GITenberg
+title: 'The Rescue: A Romance of the Shallows'
+url: http://www.gutenberg.org/ebooks/1712
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Rescousse_(roman)
+- https://en.wikipedia.org/wiki/The_Rescue_(Conrad_novel)
+- https://it.wikipedia.org/wiki/Il_salvataggio
