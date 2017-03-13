@@ -1,5 +1,8 @@
 _repo: The-Rescue--A-Romance-of-the-Shallows_1712
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -20,6 +23,8 @@ description: "The Rescue, A Romance of the Shallows (1920) is one of Joseph Conr
   \ the recurring protagonist of The Lingard Trilogy, who was on his way to help a\
   \ native friend regain his land when he falls in love with a married woman whose\
   \ yacht he saves from foundering.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1712#The-Rescue--A-Romance-of-the-Shallows
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
